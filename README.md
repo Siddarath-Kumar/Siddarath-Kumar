@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Siddarath-Kumar and I am currently a university student at AUT studying Bachelor of Computer and Information Sciences.
-- 👀 I’m interested in learning many types of programming languages. 
+- 👋 Hi, I’m @Siddarath-Kumar and I am currently a university student at AUT studying a Bachelor of Computer and Information Sciences.
+- 👀 I’m interested in learning many types of programming languages and becoming a Software Developer. 
 - 👀 I currently have academic experience in the programming lanuages C, Java, Python, HTML and CSS. 
 - 👀 IDE's used: NetBeans, Eclipse, Visual Studio 2017, Wing, IDLE, Notepad ++ and Visual Studio Code.
 - 🌱 I’m currently learning JavaScript in my spare time to implement interactive features in web design.
